@@ -19,4 +19,4 @@ Colleagues, superiors, customers, fun and the challenge are things that motivate
 
 __P.S. i like dogs.__
 
-![Alt Text](https://tenor.com/de/view/dog-stare-gif-24786132](https://giphy.com/gifs/wow-blinky-stability-AAmhvrZzLCz1m)
+![Alt Text](https://tenor.com/de/view/dog-stare-gif-24786132)
