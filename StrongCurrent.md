@@ -3,7 +3,7 @@
 my name is Martin ✨♈️✨, based in Hamburg. Looking forward to learn a lot about web development. I'm a trained media designer for digital and printmedia but the last years i've been working in office organization and management. 
 I used some of html and css during my career but looking forward to learn much more. In my free time I like to be outside or meet with friends. 
 
-I'm interested in many things but   
+I'm interested in many things but
 ⋅⋅* Unordered sub-list. 🏄 Boardsports
 ⋅⋅* Unordered sub-list.  🚐 Travel
 ⋅⋅* Unordered sub-list.  🐠 Nature 
@@ -19,4 +19,4 @@ Colleagues, superiors, customers, fun and the challenge are things that motivate
 
 __P.S. i like dogs.__
 
-![Alt Text](https://tenor.com/de/view/dog-stare-gif-24786132)
+![Alt Text](https://tenor.com/de/view/dog-stare-gif-24786132](https://giphy.com/gifs/wow-blinky-stability-AAmhvrZzLCz1m)
