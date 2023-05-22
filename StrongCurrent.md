@@ -4,13 +4,12 @@ my name is Martin ✨♈️✨, based in Hamburg. Looking forward to learn a lot
 I used some of html and css during my career but looking forward to learn much more. In my free time I like to be outside or meet with friends. 
 
 I'm interested in many things but   
-⋅⋅* 🏄 Boardsports
-⋅⋅* 🚐 Travel
-⋅⋅* 🐠 Nature 
-⋅⋅* 😁 My fiancée 
-..* 🌮 International cuisine 
+⋅⋅* Unordered sub-list. 🏄 Boardsports
+⋅⋅* Unordered sub-list.  🚐 Travel
+⋅⋅* Unordered sub-list.  🐠 Nature 
+⋅⋅* Unordered sub-list.  😁 My fiancée 
+⋅⋅* Unordered sub-list.  🌮 International cuisine 
 are my main interests.
-
 
 TOP SOFTSKILLS
 Sense of responsibility, Conscientiousness, Emotional intelligence, Social openness, Communication skills
