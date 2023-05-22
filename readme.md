@@ -17,4 +17,4 @@ __I'm interested in many things but__
 are my main interests.
 
 __P.S. i like dogs.__<br>
-<p>![Alt Text](https://media.tenor.com/CihINwofwdwAAAAd/dog-stare.gif)</p>
+! [Alt Text](https://media.tenor.com/CihINwofwdwAAAAd/dog-stare.gif)
