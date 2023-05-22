@@ -16,5 +16,5 @@ __I'm interested in many things but__
 * 🏄 Boardsports
 are my main interests.
 
-__P.S. i like dogs.__
-![Alt Text](https://i.gifer.com/3A7v.gif)
+__P.S. i like dogs.__<br>
+<p>![Alt Text](https://media.tenor.com/CihINwofwdwAAAAd/dog-stare.gif)</p>
