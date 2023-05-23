@@ -5,10 +5,10 @@ __Top Softskills__<br>
 Sense of responsibility, conscientiousness, emotional intelligence, social openness, communication skills
 <br><br>
 __Personal Motivation__<br>
-Colleagues, superiors, customers, fun and the challenge are things that motivate me among others. I want to use, deepen, expand my knowledge and skills, be independent, make a meaningful contribution to our society through my performance
+Colleagues, superiors, customers, fun and the challenge are things that motivate me among others. I want to use, deepen and expand my knowledge and skills, be independent and make a meaningful contribution to our society through my performance
 <br><br>
 __I'm interested in many things but__
-* 😁 My fiancée
+* 😁 My fiancée | Family
 * 🏄 Friends
 * 🐠 Nature
 * 🌮 International cuisine
