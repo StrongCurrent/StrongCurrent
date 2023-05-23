@@ -1,5 +1,5 @@
 ### welcomeVisitors 🖖
-my name is Martin ✨♈️✨, based in Hamburg. Looking forward to learn a lot about web development. I'm a trained media designer for digital and printmedia but the last years i've been working in office organization and management. I used some of html and css during my career but looking forward to learn much more.
+My name is Martin ✨♈️✨, based in Hamburg. Looking forward to learn a lot about web development. I'm a trained media designer for digital and printmedia but the last years i've been working in office organization and management. I used some of html and css during my career but looking forward to learn much more.
 <br><br>
 __Top Softskills__<br>
 Sense of responsibility, conscientiousness, emotional intelligence, social openness, communication skills
