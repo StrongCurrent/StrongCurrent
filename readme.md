@@ -18,5 +18,5 @@ are my main interests.
 
 __P.S. i like dogs.__
 <br>
-![Main](https://media.tenor.com/CihINwofwdwAAAAd/dog-stare.gif)
+![Main](https://twitter.com/i/status/1628681717069549570)
 <img src="https://media.tenor.com/CihINwofwdwAAAAd/dog-stare" width="178" height="320">
