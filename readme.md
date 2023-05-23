@@ -5,7 +5,7 @@ __Top Softskills__<br>
 Sense of responsibility, conscientiousness, emotional intelligence, social openness, communication skills
 <br><br>
 __Personal Motivation__<br>
-Colleagues, superiors, customers, fun and the challenge are things that motivate me among others. I want to use, deepen and expand my knowledge and skills, be independent and make a meaningful contribution to our society through my performance
+Colleagues, superiors, customers, fun and the challenge are things that motivate me among others. I want to use, deepen and expand my knowledge and skills, be independent and make a meaningful contribution to our society through my performance.
 <br><br>
 __I'm interested in many things but__
 * 😁 My fiancée | Family
@@ -18,5 +18,4 @@ are my main interests.
 
 __P.S. i like dogs.__
 <br>
-![Main](https://twitter.com/i/status/1628681717069549570)
-<img src="https://media.tenor.com/CihINwofwdwAAAAd/dog-stare" width="178" height="320">
+![dog-stare_small](https://github.com/StrongCurrent/StrongCurrent/assets/131701063/69dae8d6-cc9a-40d8-bfb3-2d3e7385310c)
