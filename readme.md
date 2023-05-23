@@ -13,9 +13,10 @@ __I'm interested in many things but__
 * 🐠 Nature
 * 🌮 International cuisine
 * 🚐 Travel
-* 🏄 Boardsports
+* 🏄 Boardsports<br>
+
 are my main interests.
 
 __P.S. i like dogs.__
 <br>
-![dog-stare_small](https://github.com/StrongCurrent/StrongCurrent/assets/131701063/69dae8d6-cc9a-40d8-bfb3-2d3e7385310c)
+![dog-stare_small](https://github.com/StrongCurrent/StrongCurrent/assets/131701063/69dae8d6-cc9a-40d8-bfb3-2d3e7385310c.gif)
