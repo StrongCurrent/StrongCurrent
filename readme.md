@@ -9,7 +9,7 @@ Colleagues, superiors, customers, fun and the challenge are things that motivate
 <br><br>
 __I'm interested in many things but__
 * 😁 My fiancée | Family
-* 🏄 Friends
+* 💙 Friends
 * 🐠 Nature
 * 🌮 International cuisine
 * 🚐 Travel
