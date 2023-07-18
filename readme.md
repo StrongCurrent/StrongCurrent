@@ -19,4 +19,5 @@ are my main interests.
 
 __P.S. i like dogs.__
 <br>
-![dog-stare_small](https://github.com/StrongCurrent/StrongCurrent/assets/131701063/69dae8d6-cc9a-40d8-bfb3-2d3e7385310c.gif)
+![dog-stare_small](https://github.com/StrongCurrent/StrongCurrent/assets/131701063/69dae8d6-cc9a-40d8-bfb3-2d3e7385310c.gif) <div align="center">
+<img style="height: auto; width: 40%;" class="img" src="https://streak-stats.demolab.com?user=StrongCurrent&theme=city-lights&hide_border=true)](https://git.io/streak-stats" /></div>
